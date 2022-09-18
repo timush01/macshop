@@ -1,0 +1,34 @@
+[
+	{
+		"id": 1,
+		"title": "MacBook Pro 13 M1",
+		"GBmin" : "128",
+		"GBmax" : "256",
+		"price": 31999,
+		"imgSrc": "1.png"
+	},
+	{
+		"id": 2,
+		"title": "MacBook Pro  16",
+		"GBmin" : "128",
+		"GBmax" : "256",
+		"price": 40000,
+		"imgSrc": "2.png"
+	},
+	{
+		"id": 3,
+		"title": "MacBook Air M1",
+		"GBmin" : "128",
+		"GBmax" : "256",
+		"price": 26500,
+		"imgSrc": "3.png"
+	},
+	{
+		"id": 4,
+		"title": "MacBook Pro 14",
+		"GBmin" : "128",
+		"GBmax" : "256",
+		"price": 36000,
+		"imgSrc": "4.png"
+	}
+]
